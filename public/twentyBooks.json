@@ -1,0 +1,401 @@
+
+[
+  {
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de97b0d?auto=format&fit=crop&w=800&q=80",
+    "title": "Twitter",
+    "companyName": "X Corp",
+    "id": 9,
+    "description": "Social networking service for microblogging, sharing posts, trends, and news.",
+    "size": 75,
+    "reviews": 22000000,
+    "ratingAvg": 4.1,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 550000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 5500000 },
+      { "name": "5 star", "count": 14500000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Navigation app with real-time traffic, public transit info, turn-by-turn directions.",
+    "size": 110,
+    "reviews": 30000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 43200000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=80",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 11,
+    "description": "Email service with secure, smart inbox, spam filtering, and multiple account support.",
+    "size": 50,
+    "reviews": 18000000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 13200000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 12,
+    "description": "Video conferencing app with screen sharing, virtual background, meeting scheduling.",
+    "size": 95,
+    "reviews": 12000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 8800000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544716278-f3c7528f3d50?auto=format&fit=crop&w=800&q=80",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 13,
+    "description": "Team communication platform with channels, threads, file sharing, and integrations.",
+    "size": 65,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 14,
+    "description": "Collaboration app with chat, video calls, file sharing, workplace integration.",
+    "size": 100,
+    "reviews": 15000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 15,
+    "description": "Cloud storage service to store, sync and share files, photos, documents.",
+    "size": 70,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 6350000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1508873535684-277a3cbcc7d3?auto=format&fit=crop&w=800&q=80",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 16,
+    "description": "Video streaming service offering movies, TV shows, documentaries.",
+    "size": 80,
+    "reviews": 20000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 13400000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1523475496153-3dc4de9c638e?auto=format&fit=crop&w=800&q=80",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon.com, Inc.",
+    "id": 17,
+    "description": "Online shopping app with millions of products, fast delivery, deals & discounts.",
+    "size": 95,
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 17630000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+    "title": "Uber",
+    "companyName": "Uber Technologies",
+    "id": 18,
+    "description": "Ride-hailing service with car & bike options, fare estimate, real-time tracking.",
+    "size": 100,
+    "reviews": 15000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 1100000000} 
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1523473827538-04aea5e1a6bb?auto=format&fit=crop&w=800&q=80",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 19,
+    "description": "Accommodation booking app; find homes, experiences, and places worldwide.",
+    "size": 85,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6600000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1508817628294-c184f625d9b9?auto=format&fit=crop&w=800&q=80",
+    "title": "TikTok Lite",
+    "companyName": "ByteDance Ltd.",
+    "id": 20,
+    "description": "Lighter version of TikTok for low-storage devices; shorter video load times.",
+    "size": 35,
+    "reviews": 7000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 5100000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=800&q=80",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 21,
+    "description": "Language learning app with interactive lessons, games, progress tracker.",
+    "size": 60,
+    "reviews": 11000000,
+    "ratingAvg": 4.8,
+    "downloads": 250000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7800000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1511974035430-5de47d3b95da?auto=format&fit=crop&w=800&q=80",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 22,
+    "description": "Discovery app for finding ideas across recipes, DIY, fashion, home decor.",
+    "size": 65,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 6600000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526546071152-0ffa36ba5a0c?auto=format&fit=crop&w=800&q=80",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 23,
+    "description": "Discussion forum app; users share content, comments, vote on posts.",
+    "size": 70,
+    "reviews": 12000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8200000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1518449817150-2a89dd37479a?auto=format&fit=crop&w=800&q=80",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "id": 24,
+    "description": "Professional network to connect with colleagues, find jobs and share content.",
+    "size": 65,
+    "reviews": 10000000,
+    "ratingAvg": 4.3,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 7100000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1527459338096-2188bb345dfa?auto=format&fit=crop&w=800&q=80",
+    "title": "Spotify Lite",
+    "companyName": "Spotify Ltd.",
+    "id": 25,
+    "description": "Lighter version of Spotify for lower storage & data usage.",
+    "size": 40,
+    "reviews": 5000000,
+    "ratingAvg": 4.4,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+    "title": "DoorDash",
+    "companyName": "DoorDash, Inc.",
+    "id": 26,
+    "description": "Food delivery app connecting users with local restaurants and couriers.",
+    "size": 85,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6250000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b64b87d9?auto=format&fit=crop&w=800&q=80",
+    "title": "Headspace",
+    "companyName": "Headspace, Inc.",
+    "id": 27,
+    "description": "Meditation and mindfulness app with guided sessions and sleep sounds.",
+    "size": 55,
+    "reviews": 7000000,
+    "ratingAvg": 4.8,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 6700000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1527774826404-bf516ba1c6ca?auto=format&fit=crop&w=800&q=80",
+    "title": "Evernote",
+    "companyName": "Evernote Corp.",
+    "id": 28,
+    "description": "Note-taking app with notebooks, tagging, voice memos, sync across devices.",
+    "size": 65,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 6700000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535378917040-2b0a9ec11237?auto=format&fit=crop&w=800&q=80",
+    "title": "VSCO",
+    "companyName": "VSCO",
+    "id": 29,
+    "description": "Photo editing & sharing app with filters, presets, and creative tools.",
+    "size": 60,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 5640000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=800&q=80",
+    "title": "Tinder",
+    "companyName": "Match Group",
+    "id": 30,
+    "description": "Dating app to swipe and match with profiles, chat and connect.",
+    "size": 80,
+    "reviews": 12000000,
+    "ratingAvg": 4.0,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6400000 }
+    ]
+  }
+]
+
+

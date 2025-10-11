@@ -2,150 +2,151 @@
 
 [
   {
-    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=800&q=80",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Business-new-logo.jpg",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 1,
     "description": "Instant messaging app with voice and video calls, end-to-end encryption, group chats.",
-    "size": 45,
-    "reviews": 35000000,
+    "size": "45 MB",
+    "reviews": "35M",
     "ratingAvg": 4.5,
-    "downloads": 5000000000,
+    "downloads": "5B",
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 24000000 }
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "0.8M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "24M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1629131726692-1accd0d5d8e7?auto=format&fit=crop&w=800&q=80",
+    "image": "https://www.letemsvetemapplem.eu/wp-content/uploads/2018/09/instagram-fb.jpg",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "id": 2,
     "description": "Photo & video sharing social network with stories, reels, direct messages.",
-    "size": 60,
-    "reviews": 28000000,
+    "size": "60 MB",
+    "reviews": "28M",
     "ratingAvg": 4.4,
-    "downloads": 4000000000,
+    "downloads": "4B",
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 7000000 },
-      { "name": "5 star", "count": 19000000 }
+      { "name": "1 star", "count": "0.9M" },
+      { "name": "2 star", "count": "0.6M" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "7M" },
+      { "name": "5 star", "count": "19M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?auto=format&fit=crop&w=800&q=80",
+    "image": "https://img.freepik.com/free-psd/social-media-logo-design_23-2151296966.jpg?semt=ais_hybrid&w=740&q=80",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 3,
     "description": "Short-form video platform where users create and watch videos, follow trends.",
-    "size": 90,
-    "reviews": 33000000,
+    "size": "90 MB",
+    "reviews": "33M",
     "ratingAvg": 4.6,
-    "downloads": 6000000000,
+    "downloads": "6B",
     "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 900000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 19000000 }
+      { "name": "1 star", "count": "1.5M" },
+      { "name": "2 star", "count": "0.9M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "9M" },
+      { "name": "5 star", "count": "19M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1601972599720-b7c3e06b0a3f?auto=format&fit=crop&w=800&q=80",
+    "image": "https://img.freepik.com/premium-vector/vector-facebook-social-media-icon-illustration_534308-21672.jpg?semt=ais_hybrid&w=740&q=80",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 4,
     "description": "Social networking app to connect with friends, share posts, join groups.",
-    "size": 80,
-    "reviews": 30000000,
+    "size": "80 MB",
+    "reviews": "30M",
     "ratingAvg": 4.3,
-    "downloads": 4500000000,
+    "downloads": "4.5B",
     "ratings": [
-      { "name": "1 star", "count": 1300000 },
-      { "name": "2 star", "count": 850000 },
-      { "name": "3 star", "count": 2600000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 16400000 }
+      { "name": "1 star", "count": "1.3M" },
+      { "name": "2 star", "count": "0.85M" },
+      { "name": "3 star", "count": "2.6M" },
+      { "name": "4 star", "count": "9M" },
+      { "name": "5 star", "count": "16.4M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1621231233473-882c8d8743cc?auto=format&fit=crop&w=800&q=80",
+    "image": "https://cdn6.aptoide.com/imgs/c/c/f/ccf473052bb7cf44b73b49a9d69ff16b_fgraphic.png",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 5,
     "description": "Video-sharing platform to upload, watch, and stream videos across topics.",
-    "size": 100,
-    "reviews": 40000000,
+    "size": "100 MB",
+    "reviews": "40M",
     "ratingAvg": 4.7,
-    "downloads": 5000000000,
+    "downloads": "5B",
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 30000000 }
+      { "name": "1 star", "count": "1M" },
+      { "name": "2 star", "count": "0.7M" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "30M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1581276879432-15a3be9f8ca3?auto=format&fit=crop&w=800&q=80",
+    "image": "https://cdn.siasat.com/wp-content/uploads/2023/12/Telegram-messaging.webp",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 6,
     "description": "Cloud-based messaging app with channels, bots, secret chats, file sharing.",
-    "size": 55,
-    "reviews": 12000000,
+    "size": "55 MB",
+    "reviews": "12M",
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "1B",
     "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 2000000 },
-      { "name": "5 star", "count": 9000000 }
+      { "name": "1 star", "count": "0.3M" },
+      { "name": "2 star", "count": "0.2M" },
+      { "name": "3 star", "count": "0.8M" },
+      { "name": "4 star", "count": "2M" },
+      { "name": "5 star", "count": "9M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=800&q=80",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/d7/1b26d773-d3a9-1d2d-da5e-eac6b136ab4c/AppleWatch_Splash.png/300x0w.jpg",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 7,
     "description": "Messaging app with ephemeral photos & videos (snaps), stories, AR filters.",
-    "size": 70,
-    "reviews": 15000000,
+    "size": "70 MB",
+    "reviews": "15M",
     "ratingAvg": 4.2,
-    "downloads": 3500000000,
+    "downloads": "3.5B",
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 9050000 }
+      { "name": "1 star", "count": "0.5M" },
+      { "name": "2 star", "count": "0.3M" },
+      { "name": "3 star", "count": "1M" },
+      { "name": "4 star", "count": "4M" },
+      { "name": "5 star", "count": "9.05M" }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&w=800&q=80",
+    "image": "https://uptopico.com/upload/blog/cover/60c0a08dd6456.jpg",
     "title": "Spotify",
     "companyName": "Spotify Ltd.",
     "id": 8,
     "description": "Music streaming app with millions of songs, podcasts, personalized playlists.",
-    "size": 85,
-    "reviews": 20000000,
+    "size": "85 MB",
+    "reviews": "20M",
     "ratingAvg": 4.6,
-    "downloads": 3000000000,
+    "downloads": "3B",
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 13700000 }
+      { "name": "1 star", "count": "0.4M" },
+      { "name": "2 star", "count": "0.3M" },
+      { "name": "3 star", "count": "1M" },
+      { "name": "4 star", "count": "5M" },
+      { "name": "5 star", "count": "13.7M" }
     ]
   }
 ]
+
 
 
 

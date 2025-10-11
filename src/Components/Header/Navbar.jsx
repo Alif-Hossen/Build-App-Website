@@ -14,9 +14,9 @@ const Navbar = () => {
         <Link to={'/'}>
             <li className='m-2  '><GrHome />Home</li>
         </Link>
-        <Link to='/apps'><li className='m-2 '><FaAppStore />Apps</li></Link>
-        
-        
+        <Link to='/allApps'><li className='m-2 '><FaAppStore />Apps</li></Link>
+
+
         <li className='m-2  '><MdInstallDesktop />Installation</li>
     </>
 
@@ -37,7 +37,11 @@ const Navbar = () => {
                 </div>
                 <div >
 
-                    <a className="btn btn-ghost text-xl text-violet-600"><img className='h-[50px] w-[50px]' src={logoImg} alt="" />HERO.IO</a>
+                    <Link to={'/'}>
+                        <a className="btn btn-ghost text-xl text-violet-600"><img className='h-[50px] w-[50px]' src={logoImg} alt="" />HERO.IO</a>
+                    </Link>
+
+                    {/* <a className="btn btn-ghost text-xl text-violet-600"><img className='h-[50px] w-[50px]' src={logoImg} alt="" />HERO.IO</a> */}
                 </div>
 
             </div>
