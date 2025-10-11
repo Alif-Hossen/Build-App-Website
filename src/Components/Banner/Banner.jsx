@@ -2,6 +2,8 @@ import React from 'react';
 import googleImg from '../../assets/GP.png';
 import appImg from '../../assets/ap.png';
 import heroImg from '../../assets/hero.png';
+import { MdOutlineInstallDesktop } from "react-icons/md";
+
 
 const Banner = () => {
     return (
@@ -27,10 +29,10 @@ const Banner = () => {
                         <div className='border border-gray-400 rounded-2xl '>
                             <a href="https://www.apple.com/app-store/" className='flex gap-4 items-center px-4 py-1'
                             >
-                                 <img className='h-[50px] w-[50px] rounded-xl' src={appImg} alt="Google Play logo" />
+                                <img className='h-[50px] w-[50px] rounded-xl' src={appImg} alt="Google Play logo" />
                                 App Store
                             </a>
-                            
+
                         </div>
 
                     </div>
@@ -46,7 +48,9 @@ const Banner = () => {
                 <div className='grid grid-cols-3 text-center pt-5'>
                     <div className='text-white'>
                         <p className=''>Total Downloads</p>
-                        <h1 className='text-3xl  font-bold pt-2'>29.6M</h1>
+                        <h1 className='text-3xl  font-bold pt-2'>
+                            29.6M 
+                        </h1>
                         <p className='pt-2'>21% more than last month</p>
                     </div>
                     <div className='text-white'>

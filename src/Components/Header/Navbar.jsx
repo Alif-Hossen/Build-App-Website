@@ -1,17 +1,28 @@
 import React from 'react';
 import { FaGithub } from "react-icons/fa";
 import logoImg from '../../assets/logo.png'
+import { GrHome } from "react-icons/gr";
+import { FaAppStore } from "react-icons/fa";
+import { MdInstallDesktop } from "react-icons/md";
+import { Link } from 'react-router';
+
+
+
 
 const Navbar = () => {
     const links = <>
-        <li className='m-2  '>Home</li>
-        <li className='m-2 '>Apps</li>
-        <li className='m-2  '>Installation</li>
-    </>
-    
-    
-    return (
+        <Link to={'/'}>
+            <li className='m-2  '><GrHome />Home</li>
+        </Link>
+        <Link to='/apps'><li className='m-2 '><FaAppStore />Apps</li></Link>
         
+        
+        <li className='m-2  '><MdInstallDesktop />Installation</li>
+    </>
+
+
+    return (
+
         <div className="navbar bg-base-100 shadow-sm max-w-[1450px] mx-auto">
             <div className="navbar-start">
                 <div className="dropdown">
@@ -25,10 +36,10 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div >
-                    
+
                     <a className="btn btn-ghost text-xl text-violet-600"><img className='h-[50px] w-[50px]' src={logoImg} alt="" />HERO.IO</a>
                 </div>
-                
+
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 text-lg">
@@ -36,7 +47,8 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a href="https://github.com/Alif-Hossen/Build-App-Website" className="btn bg-gradient-to-r from-[#6530E4] to-[#a570f1] px-6 py-3 font-semibold text-lg rounded-l "><FaGithub />Contribute</a>
+                <a href='https://github.com/' className="btn bg-gradient-to-r from-[#6530E4] to-[#a570f1] px-6 py-3 font-semibold text-lg rounded-l "><FaGithub />Contribute</a>
+                {/* href="https://github.com/Alif-Hossen/Build-App-Website" */}
             </div>
         </div>
     );
