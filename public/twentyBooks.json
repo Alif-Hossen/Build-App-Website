@@ -1,7 +1,7 @@
 
 [
   {
-    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de97b0d?auto=format&fit=crop&w=800&q=80",
+    "image": "https://static01.nyt.com/images/2023/10/26/business/26x-meaning/26x-meaning-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
     "title": "Twitter",
     "companyName": "X Corp",
     "id": 9,
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+    "image": "https://www.leadup.vn/wp-content/uploads/2025/01/thumbnail-danh-gia-gg-map.png",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 10,
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=80",
+    "image": "https://img.freepik.com/free-vector/businessman-with-e-mail-marketing-icons_24877-51328.jpg",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 11,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+    "image": "https://media.istockphoto.com/id/1215704164/vector/colleagues-talk-to-each-other-on-the-computer-screen-conference-video-call-working-from-home.jpg?s=612x612&w=0&k=20&c=fQIzjsfNYQ4MH_Mtv40BzPYdldpwu1KG-ZZJR8ej8EI=",
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
     "id": 12,
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1544716278-f3c7528f3d50?auto=format&fit=crop&w=800&q=80",
+    "image": "https://uctechnews.ucop.edu/wp-content/uploads/2018/01/Slack-3-Picture-1000x397.png",
     "title": "Slack",
     "companyName": "Slack Technologies",
     "id": 13,
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80",
+    "image": "https://raksoedux.com/img/edux/articles/ms-teams-features-students.jpg",
     "title": "Microsoft Teams",
     "companyName": "Microsoft Corporation",
     "id": 14,
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+    "image": "https://www.jotform.com/blog/wp-content/uploads/2021/01/dropbox_featured.png",
     "title": "Dropbox",
     "companyName": "Dropbox, Inc.",
     "id": 15,
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1508873535684-277a3cbcc7d3?auto=format&fit=crop&w=800&q=80",
+    "image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Netflix-Kids-and-Family-animation-1.jpg",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 16,
@@ -145,8 +145,8 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1523475496153-3dc4de9c638e?auto=format&fit=crop&w=800&q=80",
-    "title": "Amazon Shopping",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935559/acastro_STK103__02.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "title": "Amazon",
     "companyName": "Amazon.com, Inc.",
     "id": 17,
     "description": "Online shopping app with millions of products, fast delivery, deals & discounts.",
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/Uber-Eats-App-Merge.png",
     "title": "Uber",
     "companyName": "Uber Technologies",
     "id": 18,
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1523473827538-04aea5e1a6bb?auto=format&fit=crop&w=800&q=80",
+    "image": "https://carolinelupini.com/wp-content/uploads/2015/03/airbnb.png",
     "title": "Airbnb",
     "companyName": "Airbnb, Inc.",
     "id": 19,
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1508817628294-c184f625d9b9?auto=format&fit=crop&w=800&q=80",
+    "image": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/b8232cad629393670734c73a9bd6bb18",
     "title": "TikTok Lite",
     "companyName": "ByteDance Ltd.",
     "id": 20,
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=800&q=80",
+    "image": "https://media.kgw.com/assets/CCT/images/dd87c550-4c12-4d7f-ae08-2c0750d9551e/20250212T161751/dd87c550-4c12-4d7f-ae08-2c0750d9551e_1140x641.jpg",
     "title": "Duolingo",
     "companyName": "Duolingo, Inc.",
     "id": 21,
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1511974035430-5de47d3b95da?auto=format&fit=crop&w=800&q=80",
+    "image": "https://www.marketingfacts.nl/wp-content/uploads/2022/11/145359012_m-aspect-ratio-943-471.5.jpg",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
     "id": 22,
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1526546071152-0ffa36ba5a0c?auto=format&fit=crop&w=800&q=80",
+    "image": "https://media.assettype.com/thequint/2022-01/b6f0e23e-b291-481d-80b8-9955ea0c6406/reddit.jpg?auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
     "title": "Reddit",
     "companyName": "Reddit, Inc.",
     "id": 23,
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1518449817150-2a89dd37479a?auto=format&fit=crop&w=800&q=80",
+    "image": "https://bridge.edu/tefl/blog/wp-content/uploads/2022/10/How-to-Set-Up-Your-LinkedIn-Profile-to-Get-More-Students.jpg",
     "title": "LinkedIn",
     "companyName": "Microsoft Corporation",
     "id": 24,
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1527459338096-2188bb345dfa?auto=format&fit=crop&w=800&q=80",
+    "image": "https://static-www.adweek.com/wp-content/uploads/2024/05/spotify-newfronts-video-inventory-2024.jpg?w=1200",
     "title": "Spotify Lite",
     "companyName": "Spotify Ltd.",
     "id": 25,
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/02/doordash-1.jpg",
     "title": "DoorDash",
     "companyName": "DoorDash, Inc.",
     "id": 26,
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b64b87d9?auto=format&fit=crop&w=800&q=80",
+    "image": "https://images.squarespace-cdn.com/content/v1/5ec4c062e4738d39529ebd00/1591236955000-XAHX0JX68OV2C4IQY9VY/Headspace_Share.png",
     "title": "Headspace",
     "companyName": "Headspace, Inc.",
     "id": 27,
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1527774826404-bf516ba1c6ca?auto=format&fit=crop&w=800&q=80",
+    "image": "https://static01.nyt.com/images/2013/12/12/business/TOOLKIT/TOOLKIT-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
     "title": "Evernote",
     "companyName": "Evernote Corp.",
     "id": 28,
@@ -361,7 +361,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1535378917040-2b0a9ec11237?auto=format&fit=crop&w=800&q=80",
+    "image": "https://www.aiseesoft.com/images/resource/vsco/vsco-review.jpg",
     "title": "VSCO",
     "companyName": "VSCO",
     "id": 29,
@@ -379,7 +379,7 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=800&q=80",
+    "image": "https://as1.ftcdn.net/jpg/02/47/31/08/1000_F_247310889_i2K11O14IuEPaPwF3qBVVaxaxBpdkwJJ.jpg",
     "title": "Tinder",
     "companyName": "Match Group",
     "id": 30,
@@ -394,6 +394,42 @@
       { "name": "3 star", "count": 1800000 },
       { "name": "4 star", "count": 3000000 },
       { "name": "5 star", "count": 6400000 }
+    ]
+  },
+    {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Business-new-logo.jpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Instant messaging app with voice and video calls, end-to-end encryption, group chats.",
+    "size": "45 MB",
+    "reviews": "35M",
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "0.8M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "24M" }
+    ]
+  },
+  {
+    "image": "https://www.letemsvetemapplem.eu/wp-content/uploads/2018/09/instagram-fb.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Photo & video sharing social network with stories, reels, direct messages.",
+    "size": "60 MB",
+    "reviews": "28M",
+    "ratingAvg": 4.4,
+    "downloads": "4B",
+    "ratings": [
+      { "name": "1 star", "count": "0.9M" },
+      { "name": "2 star", "count": "0.6M" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "7M" },
+      { "name": "5 star", "count": "19M" }
     ]
   }
 ]

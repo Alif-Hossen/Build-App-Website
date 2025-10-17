@@ -4,20 +4,28 @@ import logoImg from '../../assets/logo.png'
 import { GrHome } from "react-icons/gr";
 import { FaAppStore } from "react-icons/fa";
 import { MdInstallDesktop } from "react-icons/md";
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 
 
 
 
 const Navbar = () => {
     const links = <>
-        <Link to={'/'}>
-            <li className='m-2  '><GrHome />Home</li>
-        </Link>
-        <Link to='/allApps'><li className='m-2 '><FaAppStore />Apps</li></Link>
 
+        <NavLink to={'/'} className={({ isActive }) => (isActive ? 'active-nav-link' : '')}>
+            <li className='m-2 '><GrHome />Home</li>
+        </NavLink>
 
-        <li className='m-2  '><MdInstallDesktop />Installation</li>
+        <NavLink to='/totalApps' className={({ isActive }) => (isActive ? 'active-nav-link' : '')}>
+            <li className='m-2 '><FaAppStore />Apps</li>
+        </NavLink>
+
+        <NavLink to='/installation' className={({ isActive }) => (isActive ? 'active-nav-link' : '')}>
+            <li className='m-2 '><MdInstallDesktop />Installation</li>
+        </NavLink>
+
+        
+
     </>
 
 

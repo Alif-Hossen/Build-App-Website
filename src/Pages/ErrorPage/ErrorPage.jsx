@@ -12,7 +12,9 @@ const ErrorPage = () => {
                 <div className='text-center pt-8'>
                     <h1 className='text-2xl font-semibold pt-3'>Oops.! Page Not Found.!!</h1>
                     <p className='pt-3'>The Page You Are Looking For It's Not Available</p>
-                    <button className='btn btn-primary mt-3 py-5 px-8 text-xl bg-gradient-to-r from-[#6530E4] to-[#a570f1]'>Go Back</button>
+                    <a href="/">
+                        <button className='btn btn-primary mt-3 py-5 px-8 text-xl bg-gradient-to-r from-[#6530E4] to-[#a570f1]'>Go Back</button>
+                    </a>
                 </div>
             </div>
 

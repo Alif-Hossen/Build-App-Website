@@ -2,7 +2,6 @@ import React from 'react';
 import App from '../App/App';
 
 const Apps = ({ appData }) => {
-
     return (
         <div className='mb-20'>
             <div>
@@ -19,18 +18,14 @@ const Apps = ({ appData }) => {
                 </div>
                 <div className=''>
                     <a
-                        href="http://localhost:5173/allApps"
-                        className="md:ml-[45%] ml-[35%] px-12 py-1 mt-4 bg-gradient-to-r from-[#6530E4] to-[#a570f1] rounded-lg text-white inline-block text-center"
+                        href="/totalApps"
+                        className=" md:ml-[45%] ml-[35%] px-12 py-1 mt-20 bg-gradient-to-r from-[#6530E4] to-[#a570f1] rounded-lg text-white inline-block text-center"
                     >
                         Show All
                     </a>
                 </div>
             </div>
-            <div>
-
-            </div>
         </div>
     );
 };
-
 export default Apps;
