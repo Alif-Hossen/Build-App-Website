@@ -1,12 +1,11 @@
-
-
 [
   {
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Business-new-logo.jpg",
     "title": "WhatsApp Messenger",
-    "companyName": "Meta Platforms, Inc.",
+    "developedBy": "Meta Platforms, Inc.",
     "id": 1,
-    "description": "Instant messaging app with voice and video calls, end-to-end encryption, group chats.",
+    "shortSummary": "Secure IM & Calls",
+    "description": "WhatsApp Messenger is the world's leading instant messaging platform, enabling seamless communication across the globe using end-to-end encryption for maximum privacy. It supports reliable text messaging, high-quality voice calls, and group video chats. Users can quickly share various media types, including photos, videos, and documents, and its 'Status' feature allows for ephemeral updates, making it a fast and accessible communication tool.",
     "size": "45 MB",
     "reviews": "35M",
     "ratingAvg": 4.5,
@@ -22,9 +21,10 @@
   {
     "image": "https://www.letemsvetemapplem.eu/wp-content/uploads/2018/09/instagram-fb.jpg",
     "title": "Instagram",
-    "companyName": "Meta Platforms, Inc.",
+    "developedBy": "Meta Platforms, Inc.",
     "id": 2,
-    "description": "Photo & video sharing social network with stories, reels, direct messages.",
+    "shortSummary": "Visual Social Network",
+    "description": "Instagram is a dominant visual social media platform focused on photo and video sharing. Users post content to their feed, and use 'Stories' and 'Reels' (short-form videos). It offers a wide range of editing tools, filters, and effects to enhance visual content. The platform is a major hub for influencer marketing and utilizes Direct Messages (DMs) for private conversations.",
     "size": "60 MB",
     "reviews": "28M",
     "ratingAvg": 4.4,
@@ -40,9 +40,10 @@
   {
     "image": "https://img.freepik.com/free-psd/social-media-logo-design_23-2151296966.jpg?semt=ais_hybrid&w=740&q=80",
     "title": "TikTok",
-    "companyName": "ByteDance Ltd.",
+    "developedBy": "ByteDance Ltd.",
     "id": 3,
-    "description": "Short-form video platform where users create and watch videos, follow trends.",
+    "shortSummary": "Short-Form Video Hub",
+    "description": "TikTok is the premier platform for short-form video content, featuring an endless, personalized feed algorithm. Users create and watch videos, follow global trends, and integrate popular sounds and music into their content. Its focus is on user-generated content and rapid trend development, making it a major cultural force.",
     "size": "90 MB",
     "reviews": "33M",
     "ratingAvg": 4.6,
@@ -58,9 +59,10 @@
   {
     "image": "https://img.freepik.com/premium-vector/vector-facebook-social-media-icon-illustration_534308-21672.jpg?semt=ais_hybrid&w=740&q=80",
     "title": "Facebook",
-    "companyName": "Meta Platforms, Inc.",
+    "developedBy": "Meta Platforms, Inc.",
     "id": 4,
-    "description": "Social networking app to connect with friends, share posts, join groups.",
+    "shortSummary": "Connect with Friends",
+    "description": "Facebook is the foundational social networking application, designed to help users connect with friends and family, share updates, photos, and videos. It features a personalized news feed, dedicated groups for communities, a marketplace for buying and selling goods, and events planning tools. It remains essential for broad social connection and content sharing.",
     "size": "80 MB",
     "reviews": "30M",
     "ratingAvg": 4.3,
@@ -76,9 +78,10 @@
   {
     "image": "https://cdn6.aptoide.com/imgs/c/c/f/ccf473052bb7cf44b73b49a9d69ff16b_fgraphic.png",
     "title": "YouTube",
-    "companyName": "Google LLC",
+    "developedBy": "Google LLC",
     "id": 5,
-    "description": "Video-sharing platform to upload, watch, and stream videos across topics.",
+    "shortSummary": "Global Video Platform",
+    "description": "YouTube is the largest video-sharing platform globally, offering an immense library of videos across all topics, from education and entertainment to news and music. Users can upload, watch, and stream content, including short-form 'Shorts'. It is the primary site for content creators to monetize their work and for audiences to engage in subscription-based channel following.",
     "size": "100 MB",
     "reviews": "40M",
     "ratingAvg": 4.7,
@@ -94,9 +97,10 @@
   {
     "image": "https://cdn.siasat.com/wp-content/uploads/2023/12/Telegram-messaging.webp",
     "title": "Telegram",
-    "companyName": "Telegram FZ-LLC",
+    "developedBy": "Telegram FZ-LLC",
     "id": 6,
-    "description": "Cloud-based messaging app with channels, bots, secret chats, file sharing.",
+    "shortSummary": "Cloud Messaging App",
+    "description": "Telegram is a cloud-based instant messaging application known for its speed, security, and extensive feature set, including large group chats, public channels, and bot integration. It offers end-to-end encrypted 'Secret Chats' and supports sharing massive files up to 2GB. Messages are synchronized across all devices, ensuring accessibility from anywhere.",
     "size": "55 MB",
     "reviews": "12M",
     "ratingAvg": 4.5,
@@ -112,9 +116,10 @@
   {
     "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/d7/1b26d773-d3a9-1d2d-da5e-eac6b136ab4c/AppleWatch_Splash.png/300x0w.jpg",
     "title": "Snapchat",
-    "companyName": "Snap Inc.",
+    "developedBy": "Snap Inc.",
     "id": 7,
-    "description": "Messaging app with ephemeral photos & videos (snaps), stories, AR filters.",
+    "shortSummary": "Ephemeral Messaging",
+    "description": "Snapchat is a messaging app centered around ephemeral content, where photos and videos ('Snaps') disappear shortly after viewing. It popularized the 'Story' format and offers a wide array of engaging Augmented Reality (AR) filters and lenses. It focuses on private, spontaneous conversations and multimedia sharing among close friends.",
     "size": "70 MB",
     "reviews": "15M",
     "ratingAvg": 4.2,
@@ -130,9 +135,10 @@
   {
     "image": "https://uptopico.com/upload/blog/cover/60c0a08dd6456.jpg",
     "title": "Spotify",
-    "companyName": "Spotify Ltd.",
+    "developedBy": "Spotify Ltd.",
     "id": 8,
-    "description": "Music streaming app with millions of songs, podcasts, personalized playlists.",
+    "shortSummary": "Music & Podcast Stream",
+    "description": "Spotify is a leading digital music and podcast streaming service that provides access to millions of tracks from artists worldwide. It is renowned for its personalized playlists (like Discover Weekly) and excellent music discovery features. The app allows users to create and share playlists, and premium subscribers can download content for offline listening.",
     "size": "85 MB",
     "reviews": "20M",
     "ratingAvg": 4.6,
@@ -146,7 +152,3 @@
     ]
   }
 ]
-
-
-
-

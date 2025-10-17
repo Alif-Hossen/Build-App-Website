@@ -24,7 +24,7 @@ const SingleApp = ({ totalAppsData }) => {
                 </label>
             </div>
 
-            <div className='bg-[##627382] mx-10 grid md:grid-cols-4 md:gap-6  grid-cols-1 gap-3 m-4 max-w-[1480px] '>
+            <div className='bg-[##627382] mx-10 grid md:grid-cols-4 md:gap-6  grid-cols-1 gap-3 m-4 max-w-[1480px] mb-14'>
                 {
                     totalAppsData.map(app => <UniqueApp kwy={app.id} app={app}></UniqueApp>)
                 }

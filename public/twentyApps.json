@@ -1,0 +1,458 @@
+[
+  {
+    "image": "https://static01.nyt.com/images/2023/10/26/business/26x-meaning/26x-meaning-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "title": "Twitter (X)",
+    "developedBy": "X Corp",
+    "id": 9,
+    "shortSummary": "News and Social Chat",
+    "description": "Twitter, now known as X, is a highly influential social networking platform primarily focused on real-time microblogging. Users post short messages, known as 'posts' or 'tweets,' which can include text, images, videos, and links. It serves as a major source for breaking news and public discussion globally, facilitating the instant exchange of information and opinions. Key features include trending topics, direct messaging, and community-driven content moderation. It is essential for tracking cultural moments and engaging in broad public discourse.",
+    "size": 75,
+    "reviews": 22000000,
+    "ratingAvg": 4.1,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 550000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 5500000 },
+      { "name": "5 star", "count": 14500000 }
+    ]
+  },
+  {
+    "image": "https://www.leadup.vn/wp-content/uploads/2025/01/thumbnail-danh-gia-gg-map.png",
+    "title": "Google Maps",
+    "developedBy": "Google LLC",
+    "id": 10,
+    "shortSummary": "Navigation & Traffic",
+    "description": "Google Maps is a comprehensive, world-class mapping service that provides unparalleled navigation and location information. It offers real-time GPS-assisted turn-by-turn directions for driving, walking, cycling, and public transit. Users benefit from dynamic, up-to-the-minute traffic conditions to avoid congestion and plan efficient routes. The 'Street View' feature allows for the exploration of panoramic visuals from locations across the globe. It permits searching for millions of businesses, points of interest, and reviews. Additionally, offline maps can be downloaded for navigation without an internet connection.",
+    "size": 110,
+    "reviews": 30000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 43200000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/businessman-with-e-mail-marketing-icons_24877-51328.jpg",
+    "title": "Gmail",
+    "developedBy": "Google LLC",
+    "id": 11,
+    "shortSummary": "Smart Email Service",
+    "description": "Gmail is Google's widely popular email service, renowned for its robust security and intelligent features. It provides powerful spam filtering that keeps unwanted messages out of your inbox and smartly categorizes emails into tabs like Primary, Social, and Promotions. Users can access Gmail seamlessly across all devices, ensuring their communication is always synchronized. Key features include the ability to undo send, attachment previews, and integration with other Google services. The app supports multiple email accounts, making it easy to manage both personal and professional correspondence from one place.",
+    "size": 50,
+    "reviews": 18000000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 13200000 }
+    ]
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1215704164/vector/colleagues-talk-to-each-other-on-the-computer-screen-conference-video-call-working-from-home.jpg?s=612x612&w=0&k=20&c=fQIzjsfNYQ4MH_Mtv40BzPYdldpwu1KG-ZZJR8ej8EI=",
+    "title": "Zoom",
+    "developedBy": "Zoom Video Communications",
+    "id": 12,
+    "shortSummary": "Video Conferencing",
+    "description": "Zoom is a premier platform for video and audio conferencing, utilized extensively by businesses, schools, and individuals worldwide. It supports high-definition video calls and meetings for large groups, making remote collaboration seamless. Features include screen sharing for presentations, virtual backgrounds for enhancing privacy or branding, and breakout rooms for small group discussions. Users can easily schedule meetings, record sessions for later review, and utilize in-meeting chat features. Its reliability and ease of use have made it a standard tool for remote work and education.",
+    "size": 95,
+    "reviews": 12000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 8800000 }
+    ]
+  },
+  {
+    "image": "https://uctechnews.ucop.edu/wp-content/uploads/2018/01/Slack-3-Picture-1000x397.png",
+    "title": "Slack",
+    "developedBy": "Slack Technologies",
+    "id": 13,
+    "shortSummary": "Team Communication",
+    "description": "Slack is an essential workplace communication platform designed to streamline team collaboration and reduce reliance on email. Conversations are organized into 'Channels' based on projects, teams, or topics, ensuring information is easily searchable and accessible. It supports direct messaging, thread-based discussions, and file sharing, allowing users to keep all work-related content in one place. One of Slack's strongest points is its vast integration ecosystem, connecting with hundreds of third-party apps and services. Users can also make voice and video calls within the app.",
+    "size": 65,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "image": "https://raksoedux.com/img/edux/articles/ms-teams-features-students.jpg",
+    "title": "Microsoft Teams",
+    "developedBy": "Microsoft Corporation",
+    "id": 14,
+    "shortSummary": "Work Collaboration App",
+    "description": "Microsoft Teams is a unified communication and collaboration platform central to the Microsoft 365 ecosystem. It combines workplace chat, video meetings, file storage, and application integration into a single interface. Teams allows users to create dedicated channels for projects, providing a central place for conversations and documents. It offers robust video conferencing capabilities, including screen sharing and recording. Deep integration with Word, Excel, PowerPoint, and other Microsoft services simplifies collaborative document editing. It is particularly popular in corporate and educational settings due to its comprehensive security and scalability.",
+    "size": 100,
+    "reviews": 15000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://www.jotform.com/blog/wp-content/uploads/2021/01/dropbox_featured.png",
+    "title": "Dropbox",
+    "developedBy": "Dropbox, Inc.",
+    "id": 15,
+    "shortSummary": "File Storage & Share",
+    "description": "Dropbox is a pioneering cloud storage service that allows users to store files, photos, and documents online and sync them across all their devices. It secures file sharing with colleagues, friends, or family, facilitating collaboration. Features include automatic camera uploads for backing up photos, offline access to selected files, and version history for restoring older file versions. Its primary focus is on simplicity and reliability, ensuring important data is always accessible and safe. Dropbox is widely used by both individuals and businesses for file management and project coordination.",
+    "size": 70,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 6350000 }
+    ]
+  },
+  {
+    "image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Netflix-Kids-and-Family-animation-1.jpg",
+    "title": "Netflix",
+    "developedBy": "Netflix, Inc.",
+    "id": 16,
+    "shortSummary": "Video Streaming Service",
+    "description": "Netflix is the dominant global video streaming service, offering an extensive library of on-demand movies, TV shows, and documentaries. It is highly recognized for its investment in high-quality original content, known as 'Netflix Originals'. The platform provides personalized recommendations using advanced algorithms, ensuring users discover content that fits their viewing habits. Features include creating profiles for multiple users, various subscription tiers for different streaming qualities, and a download option for offline viewing. Its continuous expansion of content across various genres and languages makes it a worldwide entertainment staple.",
+    "size": 80,
+    "reviews": 20000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 13400000 }
+    ]
+  },
+  {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935559/acastro_STK103__02.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "title": "Amazon",
+    "developedBy": "Amazon.com, Inc.",
+    "id": 17,
+    "shortSummary": "Online Shopping",
+    "description": "The Amazon Shopping app is the digital storefront for the world's largest e-commerce platform, offering millions of products across virtually every category. Users benefit from competitive pricing, daily deals, and a robust customer review system to aid in purchasing decisions. Key features include one-click ordering, personalized product recommendations, and real-time tracking of orders. The platform's fast and reliable delivery service, especially through Prime membership, sets the industry standard. It offers secure payment methods and easy returns, ensuring a convenient shopping experience. The app also integrates features like image search and voice search for streamlined product discovery.",
+    "size": 95,
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 17630000 }
+    ]
+  },
+  {
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/Uber-Eats-App-Merge.png",
+    "title": "Uber",
+    "developedBy": "Uber Technologies",
+    "id": 18,
+    "shortSummary": "Ride-Hailing Service",
+    "description": "Uber is a revolutionary ride-hailing service that provides on-demand transportation via cars, bikes, and other options. The app allows users to easily book a ride with a few taps, providing fare estimates before confirmation. Key features include real-time GPS tracking of the vehicle, integrated payment options, and the ability to share trip details with trusted contacts for safety. Riders can select from various service tiers, ranging from shared rides to premium cars. Uber also operates Uber Eats for food delivery, expanding its service portfolio beyond transportation. Its convenience and global availability make it an integral part of modern urban mobility.",
+    "size": 100,
+    "reviews": 15000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 1100000000}
+    ]
+  },
+  {
+    "image": "https://carolinelupini.com/wp-content/uploads/2015/03/airbnb.png",
+    "title": "Airbnb",
+    "developedBy": "Airbnb, Inc.",
+    "id": 19,
+    "shortSummary": "Rentals & Travel",
+    "description": "Airbnb is a globally recognized platform for booking unique accommodations, offering everything from entire homes and apartments to private rooms. It connects travelers with local hosts, providing a more personal and authentic travel experience than traditional hotels. Users can filter listings based on location, price, amenities, and host reviews. In addition to stays, Airbnb also offers 'Experiences,' which are activities designed and led by local experts. The app features secure payment processing, direct communication with hosts, and a robust rating system.",
+    "size": 85,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6600000 }
+    ]
+  },
+  {
+    "image": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/b8232cad629393670734c73a9bd6bb18",
+    "title": "TikTok Lite",
+    "developedBy": "ByteDance Ltd.",
+    "id": 20,
+    "shortSummary": "Short Video Platform",
+    "description": "TikTok Lite is a streamlined, optimized version of the main TikTok application, specifically designed for users with limited storage capacity or slower internet connections. It provides the core experience of the TikTok platform: short-form video content presented in an endless, personalized feed. The app ensures smoother performance on entry-level smartphones by reducing the file size and conserving data usage. Users can still discover trending content, watch creative videos, and interact with the community. It serves as an excellent gateway into the TikTok ecosystem without demanding high device resources.",
+    "size": 35,
+    "reviews": 7000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 5100000 }
+    ]
+  },
+  {
+    "image": "https://media.kgw.com/assets/CCT/images/dd87c550-4c12-4d7f-ae08-2c0750d9551e/20250212T161751/dd87c550-4c12-4d7f-ae08-2c0750d9551e_1140x641.jpg",
+    "title": "Duolingo",
+    "developedBy": "Duolingo, Inc.",
+    "id": 21,
+    "shortSummary": "Language Learning App",
+    "description": "Duolingo is a highly engaging and effective language learning application that gamifies education. It offers courses in dozens of languages, utilizing small, bite-sized lessons that focus on vocabulary, grammar, and pronunciation. The platform employs gamification techniques, including leaderboards, streak tracking, and rewards, to keep users motivated and consistent. It features interactive exercises like listening, speaking, and translating to ensure comprehensive skill development. Duolingo continuously tracks user progress, personalizing the learning path to reinforce areas that need improvement.",
+    "size": 60,
+    "reviews": 11000000,
+    "ratingAvg": 4.8,
+    "downloads": 250000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 7800000 }
+    ]
+  },
+  {
+    "image": "https://www.marketingfacts.nl/wp-content/uploads/2022/11/145359012_m-aspect-ratio-943-471.5.jpg",
+    "title": "Pinterest",
+    "developedBy": "Pinterest, Inc.",
+    "id": 22,
+    "shortSummary": "New Ideas & Images",
+    "description": "Pinterest is a powerful visual discovery engine designed to help users find inspiration for almost any topic, such as recipes, DIY projects, fashion, home décor, and travel. Content is organized into 'Pins,' which are images or videos linked to external sources, and users save these Pins to their customized 'Boards.' This structure acts as both a digital scrapbook and a planning tool. The app utilizes advanced visual search technology to help users find similar ideas or products based on images they upload or find. It functions as both a social network for sharing ideas and a practical tool for planning and organizing projects.",
+    "size": 65,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 6600000 }
+    ]
+  },
+  {
+    "image": "https://media.assettype.com/thequint/2022-01/b6f0e23e-b291-481d-80b8-9955ea0c6406/reddit.jpg?auto=format,compress&fmt=webp&format=webp&w=1200&h=900&dpr=1.0",
+    "title": "Reddit",
+    "developedBy": "Reddit, Inc.",
+    "id": 23,
+    "shortSummary": "Discussion & Forum",
+    "description": "Reddit is a vast network of communities, known as 'Subreddits,' covering every conceivable topic. It operates as a massive discussion forum where content—links, text posts, and images—is submitted by users and ranked by others through upvoting and downvoting. This democratic ranking system brings the most popular or relevant content to the top. Users can engage in deep, threaded discussions within the Subreddits, creating a unique and diverse content ecosystem. It is a powerful platform for discovering trends, gaining niche knowledge, and connecting with people who share unique interests.",
+    "size": 70,
+    "reviews": 12000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8200000 }
+    ]
+  },
+  {
+    "image": "https://bridge.edu/tefl/blog/wp-content/uploads/2022/10/How-to-Set-Up-Your-LinkedIn-Profile-to-Get-More-Students.jpg",
+    "title": "LinkedIn",
+    "developedBy": "Microsoft Corporation",
+    "id": 24,
+    "shortSummary": "Professional Network",
+    "description": "LinkedIn is the premier social network dedicated exclusively to professional networking and career development. It allows users to create detailed profiles that function as digital résumés, showcasing their work history, skills, and endorsements. The platform is crucial for job seeking, connecting professionals with employers and recruiters. Users can follow companies, join industry groups, and share professional content such as articles and updates. It facilitates business-to-business connections and continuous professional learning through online courses and industry news.",
+    "size": 65,
+    "reviews": 10000000,
+    "ratingAvg": 4.3,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 7100000 }
+    ]
+  },
+  {
+    "image": "https://static-www.adweek.com/wp-content/uploads/2024/05/spotify-newfronts-video-inventory-2024.jpg?w=1200",
+    "title": "Spotify Lite",
+    "developedBy": "Spotify Ltd.",
+    "id": 25,
+    "shortSummary": "Lite Music App",
+    "description": "Spotify Lite is a streamlined version of the popular music streaming service, optimized for performance on basic smartphones and limited internet connections. It significantly reduces the app size and allows users to control data usage. Core functions like searching for songs and artists, playing music, and discovering new content are maintained. However, some advanced features may be limited compared to the main app. It focuses on stable streaming and quick access to music, making it ideal for users with poor network coverage or those concerned about data consumption.",
+    "size": 40,
+    "reviews": 5000000,
+    "ratingAvg": 4.4,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  },
+  {
+    "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/02/doordash-1.jpg",
+    "title": "DoorDash",
+    "developedBy": "DoorDash, Inc.",
+    "id": 26,
+    "shortSummary": "Food Delivery App",
+    "description": "DoorDash is one of the largest on-demand food delivery platforms, allowing users to browse menus from thousands of local restaurants and place orders for delivery. The app provides estimated delivery times and real-time tracking of the courier. It offers a wide variety of cuisines, catering to different dietary needs and preferences. Features include scheduled orders, group ordering functionality, and a subscription service for reduced delivery fees. DoorDash simplifies the process of getting food delivered to your home or office, making it a crucial service in the modern food service industry.",
+    "size": 85,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6250000 }
+    ]
+  },
+  {
+    "image": "https://images.squarespace-cdn.com/content/v1/5ec4c062e4738d39529ebd00/1591236955000-XAHX0JX68OV2C4IQY9VY/Headspace_Share.png",
+    "title": "Headspace",
+    "developedBy": "Headspace, Inc.",
+    "id": 27,
+    "shortSummary": "Meditation & Sleep",
+    "description": "Headspace is a highly popular wellness application focused on meditation and mindfulness exercises. it offers hundreds of guided sessions covering topics like stress, anxiety, sleep, focus, and personal growth. The app features 'mini-meditations' for quick breaks and longer sessions for deeper practice. Its signature voice guidance and engaging, friendly animation style make mindfulness accessible to beginners. A dedicated 'Sleep' section includes sleep sounds, stories, and wind-downs to improve sleep quality. Headspace aims to make meditation an easy, daily habit.",
+    "size": 55,
+    "reviews": 7000000,
+    "ratingAvg": 4.8,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 6700000 }
+    ]
+  },
+  {
+    "image": "https://static01.nyt.com/images/2013/12/12/business/TOOLKIT/TOOLKIT-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+    "title": "Evernote",
+    "developedBy": "Evernote Corp.",
+    "id": 28,
+    "shortSummary": "Note & Task Manager",
+    "description": "Evernote is a versatile note-taking and task management application that helps users capture and organize information effortlessly. It supports various note formats, including text, sketches, photos, audio, and web clippings. Notes can be organized into 'Notebooks' and tagged for easy retrieval through its powerful search function. A key feature is the ability to instantly sync notes across smartphones, tablets, and computers, ensuring data is always accessible. It is commonly used for brainstorming, research, planning, and maintaining a digital archive. Evernote helps users keep track of everything from daily to-do lists to large-scale project documentation.",
+    "size": 65,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 6700000 }
+    ]
+  },
+  {
+    "image": "https://www.aiseesoft.com/images/resource/vsco/vsco-review.jpg",
+    "title": "VSCO",
+    "developedBy": "VSCO",
+    "id": 29,
+    "shortSummary": "Photo Edit & Share",
+    "description": "VSCO is a sophisticated mobile application known for its advanced photo and video editing capabilities, especially its film-inspired filters and presets. It offers a wide range of advanced editing tools, allowing users to fine-tune exposure, contrast, temperature, and more with professional precision. Beyond editing, VSCO functions as a creative community where users can share their edited photos in a more curated, aesthetic environment than other social platforms. It focuses on artistic expression and high visual quality.",
+    "size": 60,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 5640000 }
+    ]
+  },
+  {
+    "image": "https://as1.ftcdn.net/jpg/02/47/31/08/1000_F_247310889_i2K11O14IuEPaPwF3qBVVaxaxBpdkwJJ.jpg",
+    "title": "Tinder",
+    "developedBy": "Match Group",
+    "id": 30,
+    "shortSummary": "Dating & Matching",
+    "description": "Tinder is a globally recognized dating application famous for pioneering the 'swipe' feature. Users browse profiles based on geographical location and can swipe right to express interest or swipe left to skip. When two users swipe right on each other, a 'Match' occurs, opening a private chat channel for communication. The app primarily focuses on profile pictures and a short bio. It features premium tiers, offering additional functionalities like seeing who liked your profile or undoing a swipe.",
+    "size": 80,
+    "reviews": 12000000,
+    "ratingAvg": 4.0,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6400000 }
+    ]
+  },
+  {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Business-new-logo.jpg",
+    "title": "WhatsApp Messenger",
+    "developedBy": "Meta Platforms, Inc.",
+    "id": 1,
+    "shortSummary": "Encrypted Messaging",
+    "description": "WhatsApp Messenger is the world's leading instant messaging platform, enabling seamless communication across the globe using end-to-end encryption. This security feature ensures that only you and the recipient can read or listen to the messages or calls. Core communication features include reliable text messaging, high-quality voice calls, and group video calls for up to eight participants. Users can quickly share various media types, including photos, videos, documents, and their live location. The app also features 'Status' updates, which function similarly to stories. It is designed to be user-friendly, fast, and accessible even on slower internet connections.",
+    "size": "45 MB",
+    "reviews": "35M",
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "0.8M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "8M" },
+      { "name": "5 star", "count": "24M" }
+    ]
+  },
+  {
+    "image": "https://www.letemsvetemapplem.eu/wp-content/uploads/2018/09/instagram-fb.jpg",
+    "title": "Instagram",
+    "developedBy": "Meta Platforms, Inc.",
+    "id": 2,
+    "shortSummary": "Video-Photo Sharing",
+    "description": "Instagram is a dominant visual social media platform focused on photo and video sharing, providing a rich multimedia experience. Users can post permanent content to their feed or ephemeral content via 'Stories,' which vanish after 24 hours. The app emphasizes 'Reels,' or short-form vertical videos, directly competing with other video platforms. It offers a wide range of editing tools, including filters and effects to enhance visual content before posting. Direct Messages (DMs) facilitate private conversations, and the platform is a major hub for influencer marketing and brand promotion.",
+    "size": "60 MB",
+    "reviews": "28M",
+    "ratingAvg": 4.4,
+    "downloads": "4B",
+    "ratings": [
+      { "name": "1 star", "count": "0.9M" },
+      { "name": "2 star", "count": "0.6M" },
+      { "name": "3 star", "count": "2M" },
+      { "name": "4 star", "count": "7M" },
+      { "name": "5 star", "count": "19M" }
+    ]
+  }
+]

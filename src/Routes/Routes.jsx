@@ -18,7 +18,7 @@ export const router = createBrowserRouter([
         {
             index: true,
             loader: async  () => {
-              const res = await fetch('eightBooks.json');
+              const res = await fetch('eightApps.json');
               return res.json();
             },
             path: '/',
@@ -26,7 +26,7 @@ export const router = createBrowserRouter([
         },
         {
           loader: async () => {
-            const res = await fetch('twentyBooks.json');
+            const res = await fetch('twentyApps.json');
             return res.json();
           },
           path: '/totalApps',
@@ -38,8 +38,9 @@ export const router = createBrowserRouter([
         },
         {
           path: '/appsDetails/:id',
+          loader: () => fetch('allApps.json'),
           Component: AppsDetails
-        }
+        },
         
     ]
     
